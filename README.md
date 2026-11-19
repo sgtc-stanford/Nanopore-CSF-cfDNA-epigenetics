@@ -6,7 +6,7 @@ This project analyzed the cfDNA fragmentation, methylation (5mC) and hydroxymeth
 <a href="https://github.com/Tianqi-Kiki">
   <img src="https://github.com/Tianqi-Kiki.png" width="160" alt="Tianqi Chen's profile picture">
   <br>
-  Tianqi Chen
+  Tianqi (Kiki) Chen
 </a>
 
 ## Contents
