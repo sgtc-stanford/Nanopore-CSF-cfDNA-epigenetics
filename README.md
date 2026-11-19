@@ -3,9 +3,11 @@
 This project analyzed the cfDNA fragmentation, methylation (5mC) and hydroxymethylation (5hmC) profiles from cerebrospinal fluid (CSF) in non-small cell lung cancer (NSCLC) patients with brain metastases and non-cancer controls. We found distinct nucleosome ratio patterns between cancer and control, which is unique to CSF compared with plasma samples. Distinct 5mC and 5hmC patterns were also observed between cancer and control CSF. Pathway analysis revealed cancer related genes and protein markers in NSCLC. The scripts below were used to generate the main figures, including the sequencing coverage, cfDNA fragment size distributions (in both CSF and plasma), methylation analysis and pathway analysis. Related publication is https://doi.org/10.1093/narcan/zcag021.
 
 ## Author
-<img src="https://github.com/Tianqi-Kiki" width="150" align="right" alt="Profile Picture" />
-https://github.com/Tianqi-Kiki
-[Tianqi Chen](https://github.com/Tianqi-Kiki)
+<a href="https://github.com/Tianqi-Kiki">
+  <img src="https://github.com/Tianqi-Kiki.png" width="160" alt="Tianqi Chen's profile picture">
+  <br>
+  Tianqi Chen
+</a>
 
 ## Contents
 ### CSF_cfDNA_sequencing_coverage.R 
